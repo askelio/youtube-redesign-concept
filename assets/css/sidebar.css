@@ -1,17 +1,3 @@
-@font-face {
-    font-family: Mulish;
-    src: url("/youtube-redesign-concept/assets/fonts/mulish/static/Mulish-Regular.ttf");
-}
-
-*{
-    font-family:Mulish;
-}
-
-.content{
-    padding-left: 31px;
-    padding-top: 30px;
-}
-
 .sidebar ul li {
     padding-bottom: 28px;
 }
