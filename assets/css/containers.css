@@ -1,0 +1,4 @@
+.container-manager{
+    display: flex;
+    flex-wrap: wrap;
+}
